@@ -2,8 +2,7 @@
 - Currently pursuing MCA
 - 👀 I’m interested in webdevelopment...
 - 🌱 I’m a BCA graduate
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Email: vighneshkota03@gmail.com
 
 <!---
 VighneshKota/VighneshKota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
